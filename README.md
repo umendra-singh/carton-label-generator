@@ -149,6 +149,6 @@ Warehouse carton label generator for suppliers, distribution centers, and logist
 
 This application is hosted on **GitHub Pages** and deploys automatically from the `main` branch.
 
-**Live URL**: [https://umendra-singh.github.io/carton-label-generator/](https://umendra-singh.github.io/carton-label-generator/)
+**Live URL**: [https://pactap.github.io/carton-label-generator/](https://pactap.github.io/carton-label-generator/)
 
 To run locally, open `index.html` directly or use any static file server.
