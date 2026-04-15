@@ -4,7 +4,7 @@ v1.1.1
 
 Warehouse carton label generator for suppliers, distribution centers, and logistics operations.
 
-**Live Site**: [https://umendra-singh.github.io/carton-label-generator/](https://umendra-singh.github.io/carton-label-generator/)
+**Live Site**: [https://pactap.github.io/carton-label-generator/](https://pactap.github.io/carton-label-generator/)
 
 ## Specifications
 
